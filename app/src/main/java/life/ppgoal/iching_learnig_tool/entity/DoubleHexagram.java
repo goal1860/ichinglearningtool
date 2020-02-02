@@ -8,8 +8,9 @@ public class DoubleHexagram extends  Hexagram {
     private String gramText;
     private List<GramLine> lineList;
 
-    public DoubleHexagram(int index, int presentation, String name, String alias) {
+    public DoubleHexagram(int index, int presentation, String name, String alias, String gramText) {
         super(index, presentation, name, alias);
+        this.gramText = gramText;
     }
 
     public FuxiHexagram getTopHexgram() {
