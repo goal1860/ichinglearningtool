@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">易经学习助手</string>
+    <string name="learning_iching">学习周易</string>
+    <string name="learning_double_hexagram">学习重卦（别卦）</string>
+</resources>
