@@ -3,8 +3,8 @@ package life.ppgoal.iching_learnig_tool.entity;
 import java.util.List;
 
 public class DoubleHexagram extends  Hexagram {
-    private FuxiHexagram topHexgram;
-    private FuxiHexagram buttomHexgram;
+    private FuxiHexagram topHexagram;
+    private FuxiHexagram buttomHexagram;
     private String gramText;
     private List<GramLine> lineList;
 
@@ -13,20 +13,20 @@ public class DoubleHexagram extends  Hexagram {
         this.gramText = gramText;
     }
 
-    public FuxiHexagram getTopHexgram() {
-        return topHexgram;
+    public FuxiHexagram getTopHexagram() {
+        return topHexagram;
     }
 
-    public void setTopHexgram(FuxiHexagram topHexgram) {
-        this.topHexgram = topHexgram;
+    public void setTopHexagram(FuxiHexagram topHexagram) {
+        this.topHexagram = topHexagram;
     }
 
-    public FuxiHexagram getButtomHexgram() {
-        return buttomHexgram;
+    public FuxiHexagram getButtomHexagram() {
+        return buttomHexagram;
     }
 
-    public void setButtomHexgram(FuxiHexagram buttomHexgram) {
-        this.buttomHexgram = buttomHexgram;
+    public void setButtomHexagram(FuxiHexagram buttomHexagram) {
+        this.buttomHexagram = buttomHexagram;
     }
 
     public String getGramText() {

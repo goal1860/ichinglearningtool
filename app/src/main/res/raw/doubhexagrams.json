@@ -1,0 +1,388 @@
+{
+  "list": [
+    {
+      "index": 0,
+      "name" : "乾",
+      "alias" : "乾为天",
+      "gramText": "元亨，利贞。"
+    },
+    {
+      "index": 1,
+      "name" : "坤",
+      "alias" : "坤为地",
+      "gramText" : "元亨，利牝马之贞。 君子有攸往，先迷后得主，利；西南得朋，东北丧朋。 安贞，吉。"
+    },
+    {
+      "index": 2,
+      "name" : "屯",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 3,
+      "name" : "蒙",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 4,
+      "name" : "需",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 5,
+      "name" : "讼",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 6,
+      "name" : "师",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 7,
+      "name" : "比",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 8,
+      "name" : "小畜",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 9,
+      "name" : "履",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 10,
+      "name" : "泰",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 11,
+      "name" : "否",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 12,
+      "name" : "同人",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 13,
+      "name" : "大有",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 14,
+      "name" : "谦",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 15,
+      "name" : "豫",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 16,
+      "name" : "随",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 17,
+      "name" : "蛊",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 18,
+      "name" : "临",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 19,
+      "name" : "观",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 20,
+      "name" : "噬嗑",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 21,
+      "name" : "贲",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 22,
+      "name" : "剥",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 23,
+      "name" : "复",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 24,
+      "name" : "无妄",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 25,
+      "name" : "大畜",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 26,
+      "name" : "颐",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 27,
+      "name" : "大过",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 28,
+      "name" : "坎",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 29,
+      "name" : "离",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 30,
+      "name" : "咸",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 31,
+      "name" : "恒",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 32,
+      "name" : "遁",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 33,
+      "name" : "大壮",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 34,
+      "name" : "晋",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 35,
+      "name" : "明夷",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 36,
+      "name" : "家人",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 37,
+      "name" : "睽",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 38,
+      "name" : "蹇",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 39,
+      "name" : "解",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 40,
+      "name" : "损",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 41,
+      "name" : "益",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 42,
+      "name" : "夬",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 43,
+      "name" : "姤",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 44,
+      "name" : "萃",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 45,
+      "name" : "升",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 46,
+      "name" : "困",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 47,
+      "name" : "井",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 48,
+      "name" : "革",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 49,
+      "name" : "鼎",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 50,
+      "name" : "震",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 51,
+      "name" : "艮",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 52,
+      "name" : "渐",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 53,
+      "name" : "归妹",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 54,
+      "name" : "丰",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 55,
+      "name" : "旅",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 56,
+      "name" : "巽",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 57,
+      "name" : "兑",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 58,
+      "name" : "涣",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 59,
+      "name" : "节",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 60,
+      "name" : "中孚",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 61,
+      "name" : "小过",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 62,
+      "name" : "既济",
+      "alias" : "",
+      "gramText" : ""
+    },
+    {
+      "index": 63,
+      "name" : "未济",
+      "alias" : "",
+      "gramText" : ""
+    }
+  ]
+}
