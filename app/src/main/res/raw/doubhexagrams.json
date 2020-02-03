@@ -15,170 +15,170 @@
     {
       "index": 2,
       "name" : "屯",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "水雷屯",
+      "gramText" : "元亨，利贞，勿用，有攸往，利建侯。"
     },
     {
       "index": 3,
       "name" : "蒙",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "山水蒙",
+      "gramText" : "亨。 匪我求童蒙，童蒙求我。 初噬告，再三渎，渎则不告。利贞。"
     },
     {
       "index": 4,
       "name" : "需",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "水天需",
+      "gramText" : "有孚，光亨，贞吉。 利涉大川。"
     },
     {
       "index": 5,
       "name" : "讼",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "天水讼",
+      "gramText" : "有孚，窒惕，中吉。终凶。利见大人，不利涉大川。"
     },
     {
       "index": 6,
       "name" : "师",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "地水师",
+      "gramText" : "贞，丈人吉，无咎。"
     },
     {
       "index": 7,
       "name" : "比",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "水地比",
+      "gramText" : "吉。 原筮元永贞，无咎。 不宁方来，后夫凶。"
     },
     {
       "index": 8,
       "name" : "小畜",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "风天小畜",
+      "gramText" : "亨。 密云不雨，自我西郊。"
     },
     {
       "index": 9,
       "name" : "履",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "天泽",
+      "gramText" : "履虎尾，不咥人，亨。"
     },
     {
       "index": 10,
       "name" : "泰",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "地天泰",
+      "gramText" : "小往大来，吉亨。"
     },
     {
       "index": 11,
       "name" : "否",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "天地否",
+      "gramText" : "否之匪人，不利君子贞，大往小来。"
     },
     {
       "index": 12,
       "name" : "同人",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "天火同人",
+      "gramText" : "同人于野，亨。 利涉大川，利君子贞。"
     },
     {
       "index": 13,
       "name" : "大有",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "火天大有",
+      "gramText" : "元亨。"
     },
     {
       "index": 14,
       "name" : "谦",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "地山谦",
+      "gramText" : "亨，君子有终。"
     },
     {
       "index": 15,
       "name" : "豫",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "雷地豫",
+      "gramText" : "利建侯行师。"
     },
     {
       "index": 16,
       "name" : "随",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "泽雷随",
+      "gramText" : "元亨利贞，无咎。"
     },
     {
       "index": 17,
       "name" : "蛊",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "山风蛊",
+      "gramText" : "元亨，利涉大川。 先甲三日，后甲三日。"
     },
     {
       "index": 18,
       "name" : "临",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "地泽临",
+      "gramText" : "元亨，利贞。 至于八月有凶。"
     },
     {
       "index": 19,
       "name" : "观",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "风地观",
+      "gramText" : "盥而不荐，有孚颙若。"
     },
     {
       "index": 20,
       "name" : "噬嗑",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "火雷噬嗑",
+      "gramText" : "亨。 利用狱。"
     },
     {
       "index": 21,
       "name" : "贲",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "山火贲",
+      "gramText" : "亨。 小利有所往。"
     },
     {
       "index": 22,
       "name" : "剥",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "山地剥",
+      "gramText" : "不利有攸往。"
     },
     {
       "index": 23,
       "name" : "复",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "地雷复",
+      "gramText" : "亨。 出入无疾，朋来无咎。 反复其道，七日来复，利有攸往。"
     },
     {
       "index": 24,
       "name" : "无妄",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "天雷无妄",
+      "gramText" : "元亨，利贞。 其匪正有眚，不利有攸往。"
     },
     {
       "index": 25,
       "name" : "大畜",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "雷天大畜",
+      "gramText" : "利贞，不家食吉，利涉大川。"
     },
     {
       "index": 26,
       "name" : "颐",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "山雷颐",
+      "gramText" : "贞吉。 观颐，自求口实。"
     },
     {
       "index": 27,
       "name" : "大过",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "泽风大过",
+      "gramText" : "栋桡，利有攸往，亨。"
     },
     {
       "index": 28,
       "name" : "坎",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "坎为水",
+      "gramText" : "习坎，有孚，维心亨，行有尚。"
     },
     {
       "index": 29,
       "name" : "离",
-      "alias" : "",
-      "gramText" : ""
+      "alias" : "离为火",
+      "gramText" : "利贞，亨。 畜牝牛，吉。"
     },
     {
       "index": 30,
