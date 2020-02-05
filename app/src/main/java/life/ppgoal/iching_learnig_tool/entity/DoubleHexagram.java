@@ -7,10 +7,19 @@ public class DoubleHexagram extends  Hexagram {
     private FuxiHexagram buttomHexagram;
     private String gramText;
     private List<GramLine> lineList;
+    private String pinyin;
 
     public DoubleHexagram(int index, int presentation, String name, String alias, String gramText) {
         super(index, presentation, name, alias);
         this.gramText = gramText;
+    }
+
+    public String getPinyin() {
+        return pinyin;
+    }
+
+    public void setPinyin(String pinyin) {
+        this.pinyin = pinyin;
     }
 
     public FuxiHexagram getTopHexagram() {
