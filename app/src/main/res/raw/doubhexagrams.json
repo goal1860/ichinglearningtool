@@ -284,35 +284,170 @@
       "name" : "履",
       "pinyin" : "lǚ",
       "alias" : "天泽",
-      "gramText" : "履虎尾，不咥dié人，亨。"
+      "gramText" : "履虎尾，不咥dié人，亨。",
+      "lineList": [
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 10,
       "name" : "泰",
       "pinyin" : "tài",
       "alias" : "地天泰",
-      "gramText" : "小往大来，吉亨。"
+      "gramText" : "小往大来，吉亨。",
+      "lineList": [
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 11,
       "name" : "否",
       "pinyin" : "pǐ",
       "alias" : "天地否",
-      "gramText" : "否之匪人，不利君子贞，大往小来。"
+      "gramText" : "否之匪人，不利君子贞，大往小来。",
+      "lineList": [
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 12,
       "name" : "同人",
       "pinyin" : "tóng rén",
       "alias" : "天火同人",
-      "gramText" : "同人于野，亨。 利涉大川，利君子贞。"
+      "gramText" : "同人于野，亨。 利涉大川，利君子贞。",
+      "lineList": [
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 13,
       "name" : "大有",
       "pinyin" : "dà yōu",
       "alias" : "火天大有",
-      "gramText" : "元亨。"
+      "gramText" : "元亨。",
+      "lineList": [
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 14,
