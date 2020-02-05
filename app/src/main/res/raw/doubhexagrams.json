@@ -5,56 +5,272 @@
       "name" : "乾",
       "pinyin" : "qián",
       "alias" : "乾为天",
-      "gramText": "元亨，利贞。"
+      "gramText": "元亨，利贞。",
+      "lineList": [
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 1,
       "name" : "坤",
       "pinyin" : "kūn",
       "alias" : "坤为地",
-      "gramText" : "元亨，利牝马之贞。 君子有攸往，先迷后得主，利；西南得朋，东北丧朋。 安贞，吉。"
+      "gramText" : "元亨，利牝马之贞。 君子有攸往，先迷后得主，利；西南得朋，东北丧朋。 安贞，吉。",
+      "lineList": [
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 2,
       "name" : "屯",
       "pinyin" : "zhūn",
       "alias" : "水雷屯",
-      "gramText" : "元亨，利贞，勿用，有攸往，利建侯。"
+      "gramText" : "元亨，利贞，勿用，有攸往，利建侯。",
+      "lineList": [
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 3,
       "name" : "蒙",
       "pinyin" : "méng",
       "alias" : "山水蒙",
-      "gramText" : "亨。 匪我求童蒙，童蒙求我。 初噬shì告，再三渎，渎则不告。利贞。"
+      "gramText" : "亨。 匪我求童蒙，童蒙求我。 初噬shì告，再三渎，渎则不告。利贞。",
+      "lineList": [
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 4,
       "name" : "需",
       "pinyin" : "xū",
       "alias" : "水天需",
-      "gramText" : "有孚，光亨，贞吉。 利涉大川。"
+      "gramText" : "有孚，光亨，贞吉。 利涉大川。",
+      "lineList": [
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 5,
       "name" : "讼",
       "pinyin" : "sòng",
       "alias" : "天水讼",
-      "gramText" : "有孚，窒惕zhì tì，中吉。终凶。利见大人，不利涉大川。"
+      "gramText" : "有孚，窒惕zhì tì，中吉。终凶。利见大人，不利涉大川。",
+      "lineList": [
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 6,
       "name" : "师",
       "pinyin" : "shī",
       "alias" : "地水师",
-      "gramText" : "贞，丈人吉，无咎。"
+      "gramText" : "贞，丈人吉，无咎。",
+      "lineList": [
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 7,
       "name" : "比",
       "pinyin" : "bì",
       "alias" : "水地比",
-      "gramText" : "吉。 原筮shì元永贞，无咎。 不宁方来，后夫凶。"
+      "gramText" : "吉。 原筮shì元永贞，无咎。 不宁方来，后夫凶。",
+      "lineList": [
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 8,

@@ -23,14 +23,21 @@ public class DoubleHexagramAdapter extends RecyclerView.Adapter<DoubleHexagramAd
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
-        ImageView ivGram;
+        ImageView ivLine1, ivLine2, ivLine3, ivLine4, ivLine5, ivLine6;
         TextView tvName;
         TextView tvGramText;
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
-            ivGram = itemView.findViewById(R.id.ivGram);
+            ivLine1 = itemView.findViewById(R.id.ivLine1);
+            ivLine2 = itemView.findViewById(R.id.ivLine2);
+            ivLine3 = itemView.findViewById(R.id.ivLine3);
+            ivLine4 = itemView.findViewById(R.id.ivLine4);
+            ivLine5 = itemView.findViewById(R.id.ivLine5);
+            ivLine6 = itemView.findViewById(R.id.ivLine6);
+
             tvName = itemView.findViewById(R.id.tvName);
             tvGramText = itemView.findViewById(R.id.tvGramText);
+
 
             itemView.setOnClickListener(new View.OnClickListener() {
                 @Override
@@ -55,11 +62,23 @@ public class DoubleHexagramAdapter extends RecyclerView.Adapter<DoubleHexagramAd
         holder.itemView.setTag(h);
         holder.tvName.setText(h.getName());
         holder.tvGramText.setText(h.getGramText());
-        holder.ivGram.setImageResource(R.drawable.lines);
+        holder.ivLine1.setImageResource(getLineResourceId(0, h));
+        holder.ivLine2.setImageResource(getLineResourceId(1, h));
+        holder.ivLine3.setImageResource(getLineResourceId(2, h));
+        holder.ivLine4.setImageResource(getLineResourceId(3, h));
+        holder.ivLine5.setImageResource(getLineResourceId(4, h));
+        holder.ivLine6.setImageResource(getLineResourceId(5, h));
     }
 
     @Override
     public int getItemCount() {
         return hexagramList.size();
+    }
+
+    private int getLineResourceId(int index, DoubleHexagram h) {
+        if (h.getLineList() == null){
+            return R.drawable.yin;
+        }
+        return h.getLineList().get(index).isPositive()?R.drawable.yang:R.drawable.yin;
     }
 }
