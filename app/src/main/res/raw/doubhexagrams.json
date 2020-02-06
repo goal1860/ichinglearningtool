@@ -277,7 +277,34 @@
       "name" : "小畜",
       "pinyin" : "xiao xù",
       "alias" : "风天小畜",
-      "gramText" : "亨。 密云不雨，自我西郊。"
+      "gramText" : "亨。 密云不雨，自我西郊。",
+      "lineList": [
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        }
+
+      ]
     },
     {
       "index": 9,
@@ -827,7 +854,7 @@
       "index": 25,
       "name" : "大畜",
       "pinyin" : "dà xù",
-      "alias" : "雷天大畜",
+      "alias" : "山天大畜",
       "gramText" : "利贞，不家食吉，利涉大川。",
       "lineList": [
         {
@@ -843,15 +870,15 @@
           "lineText": ""
         },
         {
+          "positive": false,
+          "lineText": ""
+        },
+        {
+          "positive": false,
+          "lineText": ""
+        },
+        {
           "positive": true,
-          "lineText": ""
-        },
-        {
-          "positive": false,
-          "lineText": ""
-        },
-        {
-          "positive": false,
           "lineText": ""
         }
 
@@ -1235,19 +1262,19 @@
       "index": 37,
       "name" : "睽",
       "pinyin" : "kuí",
-      "alias" : "火风睽",
+      "alias" : "火泽睽",
       "gramText" : "小事吉。",
       "lineList": [
         {
+          "positive": true,
+          "lineText": ""
+        },
+        {
+          "positive": true,
+          "lineText": ""
+        },
+        {
           "positive": false,
-          "lineText": ""
-        },
-        {
-          "positive": true,
-          "lineText": ""
-        },
-        {
-          "positive": true,
           "lineText": ""
         },
         {
