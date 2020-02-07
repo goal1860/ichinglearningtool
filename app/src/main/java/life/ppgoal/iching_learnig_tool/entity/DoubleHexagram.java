@@ -8,6 +8,24 @@ public class DoubleHexagram extends  Hexagram {
     private String gramText;
     private List<GramLine> lineList;
     private String pinyin;
+    private String yongyao;
+    private boolean positive;
+
+    public boolean isPositive() {
+        return positive;
+    }
+
+    public void setPositive(boolean positive) {
+        this.positive = positive;
+    }
+
+    public String getYongyao() {
+        return yongyao;
+    }
+
+    public void setYongyao(String yongyao) {
+        this.yongyao = yongyao;
+    }
 
     public DoubleHexagram(int index, int presentation, String name, String alias, String gramText) {
         super(index, presentation, name, alias);

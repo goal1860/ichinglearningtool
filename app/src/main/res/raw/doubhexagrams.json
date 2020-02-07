@@ -2,6 +2,7 @@
   "list": [
     {
       "index": 0,
+      "positive" : true,
       "name" : "乾",
       "pinyin" : "qián",
       "alias" : "乾为天",
@@ -9,30 +10,31 @@
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九，潜龙勿用"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二，见xiàn龙在田，利见大人。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三，君子终日乾乾，夕惕若厉，无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四，或跃在渊，无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五，飞龙在天，利见大人。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九，亢龙有悔。"
         }
 
-      ]
+      ],
+      "yongyao" : "用九，见群龙无首，吉。"
     },
     {
       "index": 1,
