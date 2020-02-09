@@ -1,6 +1,7 @@
 package life.ppgoal.iching_learnig_tool;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.FragmentManager;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -22,55 +23,27 @@ import life.ppgoal.iching_learnig_tool.adapter.DoubleHexagramAdapter;
 import life.ppgoal.iching_learnig_tool.entity.DoubleHexagram;
 import life.ppgoal.iching_learnig_tool.entity.DoubleHexagramContainer;
 
-public class DoubleHexagramActivity extends AppCompatActivity {
+public class DoubleHexagramActivity extends AppCompatActivity implements DoubleHexagramAdapter.DoubleHexagramItemClickable{
 
-    RecyclerView recyclerView;
-    RecyclerView.Adapter adapter;
-    RecyclerView.LayoutManager layoutManager;
-    List<DoubleHexagram> doubleHexagramList;
+    FragmentManager fragmentManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_double_hexagram);
 
-        recyclerView = findViewById(R.id.rvDoubleGrams);
-        recyclerView.setHasFixedSize(true);
-
-        layoutManager = new LinearLayoutManager(this);
-        recyclerView.setLayoutManager(layoutManager);
-        Gson gson = new GsonBuilder().create();
-        doubleHexagramList = gson.fromJson(readJson(), DoubleHexagramContainer.class).getList();
-
-//        doubleHexagramList = new ArrayList<>();
-//        doubleHexagramList.add(new DoubleHexagram(1, 1, "乾", "乾为天", "元亨利贞"));
-
-
-        adapter = new DoubleHexagramAdapter(this, doubleHexagramList);
-        recyclerView.setAdapter(adapter);
+        fragmentManager = getSupportFragmentManager();
+        fragmentManager.beginTransaction()
+                .hide(fragmentManager.findFragmentById(R.id.doubleHexagramDetailFrag))
+                .commit();
     }
 
-    private String readJson() {
-        InputStream resourceReader = getResources().openRawResource(R.raw.doubhexagrams);
-        Writer writer = new StringWriter();
-        try {
-            BufferedReader reader = new BufferedReader(new InputStreamReader(resourceReader, "UTF-8"));
-            String line = reader.readLine();
-            while (line != null) {
-                writer.write(line);
-                line = reader.readLine();
-            }
-        } catch (Exception e) {
-            Log.d( "Unhandled exception", e.getMessage());
-        } finally {
-            try {
-                resourceReader.close();
-            } catch (Exception e) {
-                Log.d( "Unhandled exception", e.getMessage());
-            }
-        }
-
-        return writer.toString();
+    @Override
+    public void onItemClicked(DoubleHexagram item) {
+        fragmentManager.beginTransaction()
+                .show(fragmentManager.findFragmentById(R.id.doubleHexagramDetailFrag))
+                .hide(fragmentManager.findFragmentById(R.id.doubleHexagramListFrag))
+                .addToBackStack(null)
+                .commit();
     }
-
 }

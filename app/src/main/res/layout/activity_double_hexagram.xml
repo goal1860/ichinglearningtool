@@ -4,11 +4,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
+    android:orientation="horizontal"
     tools:context=".DoubleHexagramActivity">
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rvDoubleGrams"
+
+    <fragment
+        android:id="@+id/doubleHexagramListFrag"
+        android:name="life.ppgoal.iching_learnig_tool.fragments.DoubleHexagramListFrag"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        tools:layout="@layout/fragment_double_hexagram_list" />
+
+    <fragment
+        android:id="@+id/doubleHexagramDetailFrag"
+        android:name="life.ppgoal.iching_learnig_tool.fragments.DoubleHexagramDetailFrag"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        tools:layout="@layout/fragment_double_hexagram_detail" />
 </LinearLayout>

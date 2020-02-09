@@ -14,19 +14,26 @@ import java.util.List;
 
 import life.ppgoal.iching_learnig_tool.R;
 import life.ppgoal.iching_learnig_tool.entity.DoubleHexagram;
+import life.ppgoal.iching_learnig_tool.entity.Hexagram;
 
 public class DoubleHexagramAdapter extends RecyclerView.Adapter<DoubleHexagramAdapter.ViewHolder> {
     private List<DoubleHexagram> hexagramList;
+    DoubleHexagramItemClickable activity;
 
     public DoubleHexagramAdapter(Context context, List<DoubleHexagram> hexagramList) {
         this.hexagramList = hexagramList;
+        activity = (DoubleHexagramItemClickable) context;
+    }
+
+    public interface DoubleHexagramItemClickable {
+        void onItemClicked(DoubleHexagram item);
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
         ImageView ivLine1, ivLine2, ivLine3, ivLine4, ivLine5, ivLine6;
         TextView tvName;
         TextView tvGramText;
-        public ViewHolder(@NonNull View itemView) {
+        public ViewHolder(@NonNull final View itemView) {
             super(itemView);
             ivLine1 = itemView.findViewById(R.id.ivLine1);
             ivLine2 = itemView.findViewById(R.id.ivLine2);
@@ -42,7 +49,7 @@ public class DoubleHexagramAdapter extends RecyclerView.Adapter<DoubleHexagramAd
             itemView.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-
+                    activity.onItemClicked((DoubleHexagram)(itemView.getTag()));
                 }
             });
 
