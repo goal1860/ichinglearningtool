@@ -1,14 +1,231 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".fragments.DoubleHexagramDetailFrag">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
 
-</FrameLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp"
+        android:paddingTop="15dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="10dp">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:orientation="vertical"
+            android:paddingRight="10dp">
+
+            <ImageView
+                android:id="@+id/ivDetailLine5"
+                android:layout_width="70dp"
+                android:layout_height="10dp"
+                android:paddingBottom="5dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/yang" />
+
+            <ImageView
+                android:id="@+id/ivDetailLine4"
+                android:layout_width="70dp"
+                android:layout_height="10dp"
+                android:paddingBottom="5dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/yang" />
+
+            <ImageView
+                android:id="@+id/ivDetailLine3"
+                android:layout_width="70dp"
+                android:layout_height="10dp"
+                android:paddingBottom="5dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/yang" />
+
+            <ImageView
+                android:id="@+id/ivDetailLine2"
+                android:layout_width="70dp"
+                android:layout_height="10dp"
+                android:paddingBottom="5dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/yang" />
+
+            <ImageView
+                android:id="@+id/ivDetailLine1"
+                android:layout_width="70dp"
+                android:layout_height="10dp"
+                android:paddingBottom="5dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/yang" />
+
+            <ImageView
+                android:id="@+id/ivDetailLine0"
+                android:layout_width="70dp"
+                android:layout_height="10dp"
+                android:paddingBottom="5dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/yang" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvDetailName"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="TextView"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/tvDetailAlias"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="TextView" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvDetailPinyin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="TextView" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:paddingLeft="20dp"
+        android:paddingTop="5dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="5dp"
+        android:text="@string/gramText"
+        android:textColor="@color/colorAccent" />
+
+    <TextView
+        android:id="@+id/tvDetailGramText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:paddingLeft="20dp"
+        android:paddingTop="5dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="5dp"
+        android:text="@string/tuanText"
+        android:textColor="@color/colorAccent" />
+
+    <TextView
+        android:id="@+id/tvDetailTuanText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:paddingLeft="20dp"
+        android:paddingTop="5dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="5dp"
+        android:text="@string/xiangText"
+        android:textColor="@color/colorAccent" />
+
+    <TextView
+        android:id="@+id/tvDetailXiangText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:paddingLeft="20dp"
+        android:paddingTop="5dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="5dp"
+        android:text="@string/lineText"
+        android:textColor="@color/colorAccent" />
+
+    <TextView
+        android:id="@+id/tvDetailLineText0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="TextView"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvDetailLineText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="TextView"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvDetailLineText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="TextView"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvDetailLineText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="TextView"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvDetailLineText4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="TextView"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvDetailLineText5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="TextView"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvDetailYongYao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp" />
+</LinearLayout>

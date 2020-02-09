@@ -9,7 +9,25 @@ public class DoubleHexagram extends  Hexagram {
     private List<GramLine> lineList;
     private String pinyin;
     private String yongyao;
+    private String tuanText;
     private boolean positive;
+    private String xiangText;
+
+    public String getXiangText() {
+        return xiangText;
+    }
+
+    public void setXiangText(String xiangText) {
+        this.xiangText = xiangText;
+    }
+
+    public String getTuanText() {
+        return tuanText;
+    }
+
+    public void setTuanText(String tuanText) {
+        this.tuanText = tuanText;
+    }
 
     public boolean isPositive() {
         return positive;

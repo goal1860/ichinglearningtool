@@ -5,4 +5,8 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gramText">卦辞</string>
+    <string name="tuanText">彖辞</string>
+    <string name="xiangText">象传</string>
+    <string name="lineText">爻辞</string>
 </resources>
