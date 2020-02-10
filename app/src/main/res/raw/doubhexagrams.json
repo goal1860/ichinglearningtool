@@ -44,33 +44,36 @@
       "pinyin" : "kūn",
       "alias" : "坤为地",
       "gramText" : "元亨，利牝马之贞。 君子有攸往，先迷后得主，利；西南得朋，东北丧朋。 安贞，吉。",
+      "tuanText": "至哉坤元，万物资生，乃顺承天。坤厚载物，德合无疆。含弘光大，品物咸亨。牝马地类，行地无疆，柔顺利贞。君子攸yōu行，先迷失道，后顺得常。西南得朋，乃与类行；东北丧朋，乃终有庆。安贞之吉，应地无疆。",
+      "xiangText": "地势，坤；君子以厚德载物。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六，履霜，坚冰至。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二，直方大，不习无不利"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三，含章可贞，或从王事，无成有终。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四，括囊，无咎无誉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五，黄裳，元吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六，龙战于野，其血玄黄。"
         }
 
-      ]
+      ],
+      "yongYao" : "用六，利永贞。"
     },
     {
       "index": 2,
@@ -78,30 +81,32 @@
       "pinyin" : "zhūn",
       "alias" : "水雷屯",
       "gramText" : "元亨，利贞，勿用，有攸往，利建侯。",
+      "tuanText": "屯，刚柔始交而难生，动乎险中，大亨贞。雷雨之动满盈，天造草昧，宜建侯而不宁。",
+      "xiangText": "云雷，屯；君子以经纶。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九，磐桓，利居贞，利建侯。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二，屯如，邅zhān如，乘马班如。匪寇，婚媾。女子贞不字，十年乃字。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三，即鹿无虞yú，惟wéi入于林中；君子几jī不如舍。往吝lìn。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四，乘马班如，求婚媾；往吉，无不利。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五，屯其膏，小贞吉，大贞凶。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六，乘马班如，泣血涟如。"
         }
 
       ]
@@ -112,6 +117,8 @@
       "pinyin" : "méng",
       "alias" : "山水蒙",
       "gramText" : "亨。 匪我求童蒙，童蒙求我。 初噬shì告，再三渎，渎则不告。利贞。",
+      "tuanText": "屯，刚柔始交而难生，动乎险中，大亨贞。雷雨之动满盈，天造草昧，宜建侯而不宁。",
+      "xiangText": "云雷，屯；君子以经纶。",
       "lineList": [
         {
           "positive": false,
