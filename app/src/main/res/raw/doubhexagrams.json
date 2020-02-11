@@ -117,32 +117,32 @@
       "pinyin" : "méng",
       "alias" : "山水蒙",
       "gramText" : "亨。 匪我求童蒙，童蒙求我。 初噬shì告，再三渎，渎则不告。利贞。",
-      "tuanText": "屯，刚柔始交而难生，动乎险中，大亨贞。雷雨之动满盈，天造草昧，宜建侯而不宁。",
-      "xiangText": "云雷，屯；君子以经纶。",
+      "tuanText": "蒙，山下有险，险而止，蒙。蒙亨，以亨行时中也。匪我求童蒙，童蒙求我，志应也。初筮告，以刚中也。再三渎，渎则不告，渎蒙也。蒙以养正，圣功也。",
+      "xiangText": "山下出泉，蒙；君子以果行育德。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六：发蒙，利用刑人，用说桎梏，以往吝。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二：包蒙，吉。纳妇，吉，子克家。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：勿用取女，见金夫，不有躬，无攸利。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：困蒙，吝。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：童蒙，吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九：击蒙，不利为寇，利御寇。"
         }
 
       ]
@@ -153,30 +153,32 @@
       "pinyin" : "xū",
       "alias" : "水天需",
       "gramText" : "有孚，光亨，贞吉。 利涉大川。",
+      "tuanText": "需，须也，险在前也。刚健而不陷，其义不困穷矣。需，有孚，光亨，贞吉，位乎天位，以正中也。利涉大川，往有功也。",
+      "xiangText": "云上于天，需；君子以饮食宴乐。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九，需于郊，利用恒，无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二，需于沙，小有言，终吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三，需于泥，致寇至。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四，需于血，岀自穴。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五，需于酒食，贞吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六，入于穴，有不速之客三人来，敬之，终吉。"
         }
 
       ]
@@ -187,30 +189,32 @@
       "pinyin" : "sòng",
       "alias" : "天水讼",
       "gramText" : "有孚，窒惕zhì tì，中吉。终凶。利见大人，不利涉大川。",
+      "tuanText": "讼，上刚下险，险而健，讼。讼有孚窒，惕中吉，刚来而得中也。终凶。讼不可成也。利见大人：尚中正也。不利涉大川；入于渊也。",
+      "xiangText": "天与水违行，讼：君子以做事谋始。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六，不永所事，小有言，终吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "不克讼，归而逋bū；其邑人三百户，无眚shěng "
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "食旧德，贞厉，终吉；或从王事，无成。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四，不克讼，复即命；渝，安贞吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五，讼，元吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九，或之鞶pán带终朝三褫chǐ之。"
         }
 
       ]
