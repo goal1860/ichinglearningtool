@@ -225,32 +225,32 @@
       "pinyin" : "shī",
       "alias" : "地水师",
       "gramText" : "贞，丈人吉，无咎。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "师，众也；贞，正也。能以众正，可以王矣。刚中而应，行险而顺，以此毒天下，而民从之，吉又何咎矣！",
+      "xiangText": "地中有水，师；君子以容民畜众。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六：大君有命，开国承家,小人勿用。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "六五：田有禽，利执言，无咎。长子帅师，弟子舆尸，贞凶。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：师左次，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：师或舆尸,凶。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "九二：在师中，吉，无咎；王三锡命。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六：大君有命，开国承家,小人勿用。"
         }
 
       ]
@@ -261,30 +261,32 @@
       "pinyin" : "bì",
       "alias" : "水地比",
       "gramText" : "吉。 原筮shì元永贞，无咎。 不宁方来，后夫凶。",
+      "tuanText": "比，吉也，比，辅也，下顺从也。原筮，元永贞，无咎，以刚中也。不宁方来，上下应也。后夫凶。其道穷也。",
+      "xiangText": "地上有水，比。先王以建万国，亲诸侯。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六：有孚比之，无咎。有孚盈缶，终来有它，吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二：比之自内，贞吉"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：比之匪人。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "外比之，贞吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "显比，王用三驱，失前禽，邑人不诫，吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "比之无首，凶。"
         }
 
       ]
@@ -295,30 +297,32 @@
       "pinyin" : "xiao xù",
       "alias" : "风天小畜",
       "gramText" : "亨。 密云不雨，自我西郊。",
+      "tuanText": "柔得位而上下应之，曰小畜。健而巽，刚中而志行，乃亨。密云不雨，尚往也；自我西郊，施未行也。",
+      "xiangText": "风行天上，小畜；君子以懿文德。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九，复自道，何其咎？吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二，牵复，吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三，舆说tuō辐，夫妻反目。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "有孚，血去惕出，无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "有孚挛如，富以其邻。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九，既雨既处，尚德载。妇贞厉，月几望。君子征凶。"
         }
 
       ]
@@ -329,30 +333,32 @@
       "pinyin" : "lǚ",
       "alias" : "天泽",
       "gramText" : "履虎尾，不咥dié人，亨。",
+      "tuanText": "履，柔履刚也。说而应乎乾，是以履虎尾，不咥人，亨。刚中正，履帝位而不疚，光明也。",
+      "xiangText": "上天下泽，履；君子以辩上下，定民志。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：素履往，无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二：履道坦坦，幽人贞吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：眇miǎo能视，跛能履。履虎尾，咥人，凶。武人为于大君。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四：履虎尾，愬shuò愬。终吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五：夬guài履，贞厉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九：视履考祥，其旋元吉。"
         }
 
       ]
@@ -363,6 +369,8 @@
       "pinyin" : "tài",
       "alias" : "地天泰",
       "gramText" : "小往大来，吉亨。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -397,6 +405,8 @@
       "pinyin" : "pǐ",
       "alias" : "天地否",
       "gramText" : "否之匪人，不利君子贞，大往小来。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -431,6 +441,8 @@
       "pinyin" : "tóng rén",
       "alias" : "天火同人",
       "gramText" : "同人于野，亨。 利涉大川，利君子贞。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -465,6 +477,8 @@
       "pinyin" : "dà yōu",
       "alias" : "火天大有",
       "gramText" : "元亨。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -499,6 +513,8 @@
       "pinyin" : "qiān",
       "alias" : "地山谦",
       "gramText" : "亨，君子有终。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -533,6 +549,8 @@
       "pinyin" : "yǜ",
       "alias" : "雷地豫",
       "gramText" : "利建侯行师。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -567,6 +585,8 @@
       "pinyin" : "suí",
       "alias" : "泽雷随",
       "gramText" : "元亨利贞，无咎。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -601,6 +621,8 @@
       "pinyin" : "gǔ",
       "alias" : "山风蛊",
       "gramText" : "元亨，利涉大川。 先甲三日，后甲三日。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -635,6 +657,8 @@
       "pinyin" : "lín",
       "alias" : "地泽临",
       "gramText" : "元亨，利贞。 至于八月有凶。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -669,6 +693,8 @@
       "pinyin" : "guān",
       "alias" : "风地观",
       "gramText" : "盥guàn而不荐，有孚颙yóng若。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -703,6 +729,8 @@
       "pinyin" : "shì hé",
       "alias" : "火雷噬嗑",
       "gramText" : "亨。 利用狱。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -737,6 +765,8 @@
       "pinyin" : "bì",
       "alias" : "山火贲",
       "gramText" : "亨。 小利有所往。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -771,6 +801,8 @@
       "pinyin" : "bō",
       "alias" : "山地剥",
       "gramText" : "不利有攸往。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -805,6 +837,8 @@
       "pinyin" : "fù",
       "alias" : "地雷复",
       "gramText" : "亨。 出入无疾，朋来无咎。 反复其道，七日来复，利有攸往。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -839,6 +873,8 @@
       "pinyin" : "wú wàng",
       "alias" : "天雷无妄",
       "gramText" : "元亨，利贞。 其匪正有眚shěng，不利有攸往。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -873,6 +909,8 @@
       "pinyin" : "dà xù",
       "alias" : "山天大畜",
       "gramText" : "利贞，不家食吉，利涉大川。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -907,6 +945,8 @@
       "pinyin" : "yí",
       "alias" : "山雷颐",
       "gramText" : "贞吉。 观颐，自求口实。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -941,6 +981,8 @@
       "pinyin" : "dà guò",
       "alias" : "泽风大过",
       "gramText" : "栋桡ráo，利有攸往，亨。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -975,6 +1017,8 @@
       "pinyin" : "kǎn",
       "alias" : "坎为水",
       "gramText" : "习坎，有孚，维心亨，行有尚。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1009,6 +1053,8 @@
       "pinyin" : "lí",
       "alias" : "离为火",
       "gramText" : "利贞，亨。 畜牝pìn牛，吉。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1043,6 +1089,8 @@
       "pinyin" : "xián",
       "alias" : "泽山咸",
       "gramText" : "亨，利贞，取女吉。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1077,6 +1125,8 @@
       "pinyin" : "héng",
       "alias" : "雷风恒",
       "gramText" : "亨，无咎，利贞，利有攸往。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1111,6 +1161,8 @@
       "pinyin" : "dùn",
       "alias" : "天山遁",
       "gramText" : "亨，小利贞。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1145,6 +1197,8 @@
       "pinyin" : "dà zhuàng",
       "alias" : "雷天大壮",
       "gramText" : "利贞。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1179,6 +1233,8 @@
       "pinyin" : "jìn",
       "alias" : "火地晋",
       "gramText" : "康侯用锡马蕃庶，昼日三接。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1213,6 +1269,8 @@
       "pinyin" : "míng yí",
       "alias" : "地火明夷",
       "gramText" : "利艰贞。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1247,6 +1305,8 @@
       "pinyin" : "jiā rén",
       "alias" : "风火家人",
       "gramText" : "利女贞。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1281,6 +1341,8 @@
       "pinyin" : "kuí",
       "alias" : "火泽睽",
       "gramText" : "小事吉。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1315,6 +1377,8 @@
       "pinyin" : "jiǎn",
       "alias" : "水山",
       "gramText" : "利西南，不利东北；利见大人，贞吉。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1349,6 +1413,8 @@
       "pinyin" : "xiè",
       "alias" : "雷水解",
       "gramText" : "利西南，无所往，其来复吉。 有攸往，夙吉。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1383,6 +1449,8 @@
       "pinyin" : "sǔn",
       "alias" : "山泽损",
       "gramText" : "有孚，元吉，无咎，可贞，利有攸往？ 曷之用，二簋guǐ可用享。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1417,6 +1485,8 @@
       "pinyin" : "yì",
       "alias" : "风雷益",
       "gramText" : "利有攸往，利涉大川。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1451,6 +1521,8 @@
       "pinyin" : "guài",
       "alias" : "泽天夬",
       "gramText" : "扬于王庭，孚号，有厉，告自邑，不利即戎，利有攸往。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1485,6 +1557,8 @@
       "pinyin" : "gòu",
       "alias" : "天风姤",
       "gramText" : "女壮，勿用取女。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1519,6 +1593,8 @@
       "pinyin" : "cuì",
       "alias" : "泽地萃",
       "gramText" : "亨。 王假有庙，利见大人，亨，利贞。 用大牲吉，利有攸往。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1553,6 +1629,8 @@
       "pinyin" : "shēng",
       "alias" : "地风升",
       "gramText" : "元亨，用见大人，勿恤，南征吉。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1587,6 +1665,8 @@
       "pinyin" : "kùn",
       "alias" : "泽水困",
       "gramText" : "亨贞，大人吉，无咎，有言不信。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1621,6 +1701,8 @@
       "pinyin" : "jǐng",
       "alias" : "水风井",
       "gramText" : "改邑不改井，无丧无得，往来井井。汔qì至，亦未繘jú井，羸léi其瓶，凶。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1655,6 +1737,8 @@
       "pinyin" : "gé",
       "alias" : "泽火革",
       "gramText" : "巳日乃孚，元亨利贞，悔亡。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1689,6 +1773,8 @@
       "pinyin" : "dǐng",
       "alias" : "火风鼎",
       "gramText" : "元吉，亨。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1723,6 +1809,8 @@
       "pinyin" : "zhèn",
       "alias" : "震为雷",
       "gramText" : "亨。震来虩xì虩，笑言哑哑。 震惊百里，不丧匕鬯chàng。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1757,6 +1845,8 @@
       "pinyin" : "gèn",
       "alias" : "艮为山",
       "gramText" : "艮其背，不获其身，行其庭，不见其人，无咎。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1791,6 +1881,8 @@
       "pinyin" : "jiàn",
       "alias" : "风山渐",
       "gramText" : "女归吉，利贞。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1825,6 +1917,8 @@
       "pinyin" : "guī mèi",
       "alias" : "雷泽归妹",
       "gramText" : "征凶，无攸利。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1859,6 +1953,8 @@
       "pinyin" : "fēng",
       "alias" : "雷火丰",
       "gramText" : "亨，王假之，勿忧，宜日中。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1893,6 +1989,8 @@
       "pinyin" : "lǚ",
       "alias" : "火山旅",
       "gramText" : "小亨，旅贞吉。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1927,6 +2025,8 @@
       "pinyin" : "xùn",
       "alias" : "巽为风",
       "gramText" : "小亨，利攸往，利见大人。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -1961,6 +2061,8 @@
       "pinyin" : "duì",
       "alias" : "兑为泽",
       "gramText" : "亨，利贞。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -1995,6 +2097,8 @@
       "pinyin" : "huàn",
       "alias" : "风水涣",
       "gramText" : "亨。 王假有庙，利涉大川，利贞。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -2029,6 +2133,8 @@
       "pinyin" : "jié",
       "alias" : "水泽节",
       "gramText" : "亨。 苦节不可贞。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -2063,6 +2169,8 @@
       "pinyin" : "zhōng fú",
       "alias" : "风泽中孚",
       "gramText" : "豚鱼吉，利涉大川，利贞。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -2097,6 +2205,8 @@
       "pinyin" : "xiǎo guò",
       "alias" : "雷山小过",
       "gramText" : "亨，利贞，可小事，不可大事。飞鸟遗之音，不宜上宜下，大吉。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
@@ -2131,6 +2241,8 @@
       "pinyin" : "jì jì",
       "alias" : "水火既济",
       "gramText" : "亨，小利贞，初吉终乱。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": true,
@@ -2165,6 +2277,8 @@
       "pinyin" : "wèi jì",
       "alias" : "火水未济",
       "gramText" : "小狐汔济，濡其尾，无攸利。",
+      "tuanText": "",
+      "xiangText": "",
       "lineList": [
         {
           "positive": false,
