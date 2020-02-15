@@ -582,32 +582,32 @@
       "pinyin" : "suí",
       "alias" : "泽雷随",
       "gramText" : "元亨利贞，无咎。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "随，刚来而下柔，动而说，随。大亨贞，无咎。而天下随时，随之时义大矣哉。",
+      "xiangText": "泽中有雷，随。君子以向晦入宴息。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九，官有渝，贞吉；出门交有功。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二，系小子，失丈夫。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三系丈夫，失小子；随有求得，利居贞。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四，随有获，贞凶；有孚在道，以明何咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五，孚于嘉，吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六，拘系之，乃从维之，王用亨于西山。"
         }
 
       ]
@@ -618,32 +618,32 @@
       "pinyin" : "gǔ",
       "alias" : "山风蛊",
       "gramText" : "元亨，利涉大川。 先甲三日，后甲三日。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "蛊，刚上而柔下，巽而止，蛊。蛊元亨，而天下治也。利涉大川，往有事也。先甲三日，后甲三日，终则有始，天行也。",
+      "xiangText": "山下有风，蛊。君子以振民育德。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六：干父之蛊，有子，考无咎，厉终吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二：干母之蛊，不可贞。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三：干父小有晦，无大咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：裕父之蛊，往见吝。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：干父之蛊，用誉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九：不事王侯，高尚其事。"
         }
 
       ]
@@ -654,34 +654,33 @@
       "pinyin" : "lín",
       "alias" : "地泽临",
       "gramText" : "元亨，利贞。 至于八月有凶。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "临，刚浸而长，说而顺，刚中而应，大亨以正，天之道也。至于八月有凶，消不久也。",
+      "xiangText": "泽上有地，临；君子以教思无穷，容保民无疆。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：咸临，贞吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二：咸临，吉，无不利。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：甘临，无攸利。既忧之，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：至临，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：知临，大君之宜，吉"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六：敦临，吉，无咎。"
         }
-
       ]
     },
     {
@@ -690,34 +689,33 @@
       "pinyin" : "guān",
       "alias" : "风地观",
       "gramText" : "盥guàn而不荐，有孚颙yóng若。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "大观在上，顺而巽，中正以观天下。观，盥而不荐，有孚颙若，下观而化也。观天之神道，而四时不忒。圣人神道设教，而天下服矣。",
+      "xiangText": "风行地上，观；先王以省方观民设教。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六：童观，小人无咎，君子吝。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二：窥观，利女贞。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：观我生，进退。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：观国之光，利用宾于王。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五：观我生，君子无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九：观其生，君子无咎。"
         }
-
       ]
     },
     {
