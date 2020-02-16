@@ -866,32 +866,32 @@
       "pinyin" : "wú wàng",
       "alias" : "天雷无妄",
       "gramText" : "元亨，利贞。 其匪正有眚shěng，不利有攸往。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "无妄，刚自外来，而为主於内。动而健，刚中而应，大亨以正，天之命也。 其匪正有眚shěng，不利有攸往。无妄之往，何之矣？ 天命不佑，行矣哉？",
+      "xiangText": "天下雷行，物与无妄；先王以茂对时，育万物。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：无妄，往吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "不耕获，不菑畲zī shē，则利有攸往。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "无妄之灾，或系之牛，行人之得，邑人之灾。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "可贞，无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "无妄之疾，勿药有喜。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "无妄，行有眚，无攸利。"
         }
 
       ]
@@ -902,32 +902,32 @@
       "pinyin" : "dà xù",
       "alias" : "山天大畜",
       "gramText" : "利贞，不家食吉，利涉大川。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "大畜，刚健笃实辉光，日新其德，刚上而尚贤。能止健，大正也。不家食吉，养贤也。利涉大川，应乎天也。",
+      "xiangText": "天在山中，大畜；君子以多识前贤往行，以畜其德。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：有厉，利巳。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "车说緮fù。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三：良马遂，利根贞，曰阑车卫，利有攸往"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：童牛之鞫jū，元吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：哭豨xī之牙，吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九：何天之瞿qú，亨"
         }
 
       ]
@@ -938,34 +938,33 @@
       "pinyin" : "yí",
       "alias" : "山雷颐",
       "gramText" : "贞吉。 观颐，自求口实。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "颐，“贞吉”，养正则吉也。“观颐”，观其所养也。“自求口实”，观其自养也。天地养万物。圣人养贤以及万民。颐之时大矣哉。",
+      "xiangText": "山下有雷，颐。君子以慎言语，节饮食。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：舍尔灵龟，观我朵颐，凶。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二：颠颐，拂经于丘。颐征，凶。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：拂颐，贞凶。十年勿用，无攸利。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：颠颐，吉。虎视眈眈，其欲逐逐，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：拂经，居，贞吉。不可涉大川。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九：由颐，厉，吉。利涉大川。"
         }
-
       ]
     },
     {
@@ -974,32 +973,32 @@
       "pinyin" : "dà guò",
       "alias" : "泽风大过",
       "gramText" : "栋桡ráo，利有攸往，亨。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "大过，大者过也。“栋桡”，本末弱也。刚过而中①，巽而说②行，“利有攸往”，乃“亨”。大过之时大矣哉。",
+      "xiangText": "泽灭木，大过。君子以独立不惧，遁世无闷。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六：藉用白茅，无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二：枯杨生秭zǐ，老夫得其女妻，无不利。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三：栋桡ráo，凶。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四：栋隆，吉。有它，吝。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五：枯杨生华，老妇得其士夫。无咎无誉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六：过涉灭顶。凶。无咎。"
         }
 
       ]
@@ -1010,32 +1009,32 @@
       "pinyin" : "kǎn",
       "alias" : "坎为水",
       "gramText" : "习坎，有孚，维心亨，行有尚。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "习坎，重险也。水流而不盈，行险而不失其信，维心亨，乃以刚中也。行有尚，往有功也。天险不可升也，地险山川丘陵也，王公设险以守其国。险之时用大矣哉！",
+      "xiangText": "水洊jiàn至，习坎；君子以常德行，习教事。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六：习坎，入于坎窞dàn。凶。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二：坎有险，求小得。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：来之坎，坎险且枕。人于坎富，勿用。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：樽酒簋guǐ贰，用缶。纳约自牖yǒu。终无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五：坎不盈，祗既平。无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六：系用徽纆mò，寘zhì于丛棘，三岁不得。凶。"
         }
 
       ]
