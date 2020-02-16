@@ -724,34 +724,33 @@
       "pinyin" : "shì hé",
       "alias" : "火雷噬嗑",
       "gramText" : "亨。 利用狱。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "颐中有物，曰噬嗑，噬嗑而亨。刚柔分，动而明，雷电合而章。柔得中而上行，虽不当位，利用狱也",
+      "xiangText": "雷电，噬嗑；先王以明罚敕法。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九，屦jù校xiào灭趾，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二，噬肤，灭鼻，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三，噬腊肉，遇毒；小吝，无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "噬干子，得金矢；利艰贞，吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "噬干肉，得黄金；贞厉，无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "何校灭耳，凶。"
         }
-
       ]
     },
     {
@@ -759,35 +758,34 @@
       "name" : "贲",
       "pinyin" : "bì",
       "alias" : "山火贲",
-      "gramText" : "亨。 小利有所往。",
-      "tuanText": "",
-      "xiangText": "",
+      "gramText" : "亨。 小利有攸往。",
+      "tuanText": "贲，亨。柔来而文刚，故亨。分，刚上而文柔。故以“小利有攸往”，刚柔交错，天文也。文明以止，人文也。观乎天文以察时变，观乎人文以化成天下。",
+      "xiangText": "山下有火，贲。君子以明庶政，无敢折狱。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：贲其趾，舍车而徒。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二：贲其须。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三：贲如濡如，永贞吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：贲如皤pó如，白马翰如，匪寇婚媾。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：贲于丘园，束帛戋jiān戋，吝，终吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九：白贲，无咎。"
         }
-
       ]
     },
     {
@@ -796,32 +794,32 @@
       "pinyin" : "bō",
       "alias" : "山地剥",
       "gramText" : "不利有攸往。",
-      "tuanText": "",
+      "tuanText": "剥，剥也。柔变刚也。不利有攸往，小人长也。顺而止之，观象也。君子尚消息盈虚，天行也。",
       "xiangText": "",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六，剥床以足，蔑，贞凶。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二，剥床以辨，蔑，贞凶。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三，剥，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四，剥床以肤，凶。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五，贯鱼，以宫人宠，无不利。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九，硕果不食，君子得舆，小人剥庐。"
         }
 
       ]
@@ -832,32 +830,32 @@
       "pinyin" : "fù",
       "alias" : "地雷复",
       "gramText" : "亨。 出入无疾，朋来无咎。 反复其道，七日来复，利有攸往。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "复亨，刚反动，而以顺行，是以出入无疾，朋来无咎。反复其道，七日来复，天行也。利有攸往，刚长也。复，其见天地之心乎。",
+      "xiangText": "雷在地中，复。先王以至日闭关，商旅不行，后不省方。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：不远复，无祗zhī悔，元吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二：休复，吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：频复，厉，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：中行独复。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：敦复，无悔。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六：迷复，凶、有灾眚shěng。"
         }
 
       ]
