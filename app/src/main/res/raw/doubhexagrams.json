@@ -1036,7 +1036,6 @@
           "positive": false,
           "lineText": "上六：系用徽纆mò，寘zhì于丛棘，三岁不得。凶。"
         }
-
       ]
     },
     {
@@ -1045,32 +1044,32 @@
       "pinyin" : "lí",
       "alias" : "离为火",
       "gramText" : "利贞，亨。 畜牝pìn牛，吉。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "离，丽也；日月丽乎天，百谷草木丽乎土，重明以丽乎正，乃化成天下。柔丽乎中正，故亨，是以畜牝牛吉也。",
+      "xiangText": "明两作，离；大人以继明照于四方。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：履错然，敬之，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "黄离，元吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "日昃zè之离，不鼓缶而歌，则大耊dié之嗟。凶。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四：突如其来如，焚如，死如，弃如。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：出涕沱若(9)，威嗟若(10)。吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九：王用出征，有嘉折首，获匪其丑。无咎。"
         }
 
       ]
