@@ -1080,32 +1080,32 @@
       "pinyin" : "xián",
       "alias" : "泽山咸",
       "gramText" : "亨，利贞，取女吉。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "咸，感也。柔上而刚下，二气感应以相与。止而说，男下女，是以“亨利贞，取女吉”也。天地感而万物化生，圣人感人心而天下和平。观其所感，而天地万物之情可见矣",
+      "xiangText": "山上有泽，咸。君子以虚受人。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六，咸其辅颊舌。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "九五，咸其脢méi，无悔。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四，贞吉。悔亡。憧憧往来，朋从尔思。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三，咸其股，执其随，往吝。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "六二，咸其腓，凶。居吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六，咸其拇。"
         }
 
       ]
@@ -1116,34 +1116,33 @@
       "pinyin" : "héng",
       "alias" : "雷风恒",
       "gramText" : "亨，无咎，利贞，利有攸往。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "恒，久也。刚上而柔下，雷风相与，巽而动，刚柔皆应，恒。恒亨无咎利贞，久于其道也。天地之道，恒久而不已也。利有攸往，终则有始也。日月得天，而能久照。四时变化，而能久成。圣人久于其道，而天下化成。观其所恒，而天地万物之情可见矣。",
+      "xiangText": "雷风，恒；君子以立不易方。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六，浚jùn恒，贞凶，无攸利。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二，悔亡"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三，不恒其德，或承之羞，贞吝。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四，田无禽。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五，恒其德，贞；妇人吉，夫子凶。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六，振恒，凶。"
         }
-
       ]
     },
     {
@@ -1152,34 +1151,33 @@
       "pinyin" : "dùn",
       "alias" : "天山遁",
       "gramText" : "亨，小利贞。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "遁亨，遁而亨也。刚当位而应，与时行也。小利贞，浸而长也。遁之时义大矣哉！",
+      "xiangText": "天下有山，遁。君子以远小人，不恶而严。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六。遁尾，厉。勿用有攸往。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二。执之用黄牛之革，莫之胜说。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三。系遁，有疾厉。畜臣妾，吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四。好遁，君子吉，小人否。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五。嘉遁，贞吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九。肥遁，无不利。"
         }
-
       ]
     },
     {
@@ -1188,34 +1186,33 @@
       "pinyin" : "dà zhuàng",
       "alias" : "雷天大壮",
       "gramText" : "利贞。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "大壮，大者壮也。刚以动，故壮。大壮利贞，大者正也。正大，而天地之情可见矣。",
+      "xiangText": "雷在天上，大壮；君子以非礼弗履。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：壮于趾，征凶，有孚。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二：贞吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三：小人用壮，君子用罔。贞厉。羝dī羊触藩，羸其角。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四：贞吉，悔亡；藩决不羸，壮于大舆之輹fù。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：丧羊于易，无悔。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六。羝羊触藩，不能退，不能遂，无攸利。艰则吉。"
         }
-
       ]
     },
     {
@@ -1224,34 +1221,33 @@
       "pinyin" : "jìn",
       "alias" : "火地晋",
       "gramText" : "康侯用锡马蕃庶，昼日三接。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "晋，进也，明出地上。顺而丽乎大明，柔进而上行，是以康侯用锡马蕃庶，昼日三接也。",
+      "xiangText": "明出地上，晋。君子以自昭明德。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六，晋如，摧如，贞吉；罔孚，裕无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二，晋如愁如，贞吉；受兹介福，于其王母。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三，众允，悔亡。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四，晋如鼫shí鼠，贞厉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五，悔亡，失得勿恤。往，吉。无不利。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九，晋其角，维用伐邑，厉吉，无咎，贞吝。"
         }
-
       ]
     },
     {
@@ -1260,34 +1256,33 @@
       "pinyin" : "míng yí",
       "alias" : "地火明夷",
       "gramText" : "利艰贞。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "明入地中，明夷。内文明而柔顺，以蒙大难，文王以之。“利艰贞”，晦其明也。内难而能正其志，箕jī子以之。",
+      "xiangText": "明入地中，明夷。君子以莅众用晦而明。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：“明夷于飞，垂其翼。君子于行，三日不食。”有攸往，主人有言。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二：明夷，夷于左股，用拯马壮，吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三：明夷于南狩，得其大首。不可疾贞。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：入于左腹，获明夷之心于门庭。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：箕子之明夷，利贞。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六：不明，晦。初登于天，后入于地。"
         }
-
       ]
     },
     {
