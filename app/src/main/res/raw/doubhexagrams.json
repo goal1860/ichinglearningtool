@@ -1291,34 +1291,33 @@
       "pinyin" : "jiā rén",
       "alias" : "风火家人",
       "gramText" : "利女贞。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "家人，女正位乎内，男正位乎外。男女正，天地之大义也。家人有严君焉，父母之谓也。父父、子子、兄兄、弟弟、夫夫、妇妇，而家道正。正家，而天下定矣。",
+      "xiangText": "风自火出，家人；君子以言有物而行有恒。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九，闲有家，悔亡。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二，无攸遂，在中馈，贞吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三，家人嗃hè嗃，悔厉，吉；妇子嘻嘻，终吝"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四，富家，大吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五，王假有家，勿恤，吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九，有孚，威如，终吉。"
         }
-
       ]
     },
     {
@@ -1327,34 +1326,33 @@
       "pinyin" : "kuí",
       "alias" : "火泽睽",
       "gramText" : "小事吉。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "睽，火动而上，泽动而下。二女同居，其志不同行。说而丽乎明，柔进而上行，得中而应乎刚，是以小事吉。天地睽而其事同也，男女睽而其志通也，万物睽而其事类也。睽之时用大矣哉！",
+      "xiangText": "上火下泽，睽；君子以同而异。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：悔亡：丧马，勿逐，自复见恶人，无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二：遇主于巷，无咎"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：见舆曳，其牛掣chè，其人天且劓yì。无初有终。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四：睽孤，遇无夫，交孚。厉，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：悔亡。厥宗噬肤。往，何咎？"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九：睽孤，见豕shǐ负涂，载鬼一车，先张之弧，后说之弧。 匪寇，婚媾。往，遇雨则吉。"
         }
-
       ]
     },
     {
@@ -1363,32 +1361,32 @@
       "pinyin" : "jiǎn",
       "alias" : "水山",
       "gramText" : "利西南，不利东北；利见大人，贞吉。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "蹇，难也，险在前也。见险而能止。知矣哉。蹇利西南，往得中也。不利东北，其道穷也。利见大人，往有功也。当位贞吉，以正邦也。蹇之时，用大矣哉。",
+      "xiangText": "山上有水，蹇；君子以反身修德。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六，往蹇，来誉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二，王臣蹇蹇，匪躬之故。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三，往蹇，来反。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四，往蹇，来连。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五，大蹇，朋来。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六，往蹇，来硕；吉；利见大人。"
         }
 
       ]
@@ -1399,34 +1397,33 @@
       "pinyin" : "xiè",
       "alias" : "雷水解",
       "gramText" : "利西南，无所往，其来复吉。 有攸往，夙吉。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "解，险以动，动而免乎险，解。解利西南，往得众也。无所往，其来复吉，乃得中也。有攸往夙吉，往有功也。天地解而雷雨作，雷雨作而百果草木皆甲坼。解之时大矣哉！",
+      "xiangText": "雷雨作，解。君子以赦过有罪。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六：无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二：田获三狐，得黄矢，贞吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：负且乘，致寇至，贞吝。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四：解而拇，朋至斯孚。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：君子维有解，吉；有孚于小人。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六：公用射隼，于高墉之上，获之，无不利。"
         }
-
       ]
     },
     {
