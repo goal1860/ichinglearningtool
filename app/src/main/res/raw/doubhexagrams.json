@@ -1432,34 +1432,33 @@
       "pinyin" : "sǔn",
       "alias" : "山泽损",
       "gramText" : "有孚，元吉，无咎，可贞，利有攸往？ 曷之用，二簋guǐ可用享。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "损，损下益上，其道上行。损而有孚，元吉，无咎，可贞，利有攸往。曷hé之用？二簋可用享。二簋应有时，损刚益柔有时。损益盈虚，与时偕行。",
+      "xiangText": "山下有泽，损；君子以惩忿窒欲。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：巳事端往，无咎，酌损之。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二：利贞，正凶，弗损益之。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：三人行则损一人，一人行则得其友。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：损其疾，事端有喜，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五：益之，十傰péng之龟，弗克回，元吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九：弗损益之，无咎，贞吉。 利有攸往，得臣无家。"
         }
-
       ]
     },
     {
@@ -1468,32 +1467,32 @@
       "pinyin" : "yì",
       "alias" : "风雷益",
       "gramText" : "利有攸往，利涉大川。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "益，损上益下，民说无疆。自上下下，其道大光。利有攸往，中正有庆。利涉大川，木道乃行。益动而巽，日进无疆。天施地生，其益无方。凡益之道，与时偕行。",
+      "xiangText": "风雷，益；君子以见善则迁，有过则改",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九：利用为大作，元吉，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二：或益之十傰péng之龟，弗亨回，永贞吉，王用芳于帝，吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三：益之用工事，无咎，有复中行，告公用闺。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四：中行，告公，从，利用为依迁国。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五：有复惠心，勿问，元吉，有复惠我德。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九：莫益之，或击之，立心勿恒，凶。"
         }
 
       ]
@@ -1504,34 +1503,33 @@
       "pinyin" : "guài",
       "alias" : "泽天夬",
       "gramText" : "扬于王庭，孚号，有厉，告自邑，不利即戎，利有攸往。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "夬，决也。刚决柔也。健而说，决而和。扬于王庭，柔乘五刚也。孚号有厉，其危乃光也。告自邑，不利即戎，所尚乃穷也。利有攸往，刚长乃终也。",
+      "xiangText": "泽上于天，夬；君子以施禄及下，居德则忌。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九，壮于前趾，往不胜为咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二，惕号，莫夜有戎，勿恤。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三，壮于頄qiú，有凶。君子夬夬独行，遇雨若濡，有愠，无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四，臀无肤，其行次且；牵羊悔亡，闻言不信。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五，苋xiàn陆夬夬；中行无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六，无号，终有凶。"
         }
-
       ]
     },
     {
@@ -1540,34 +1538,33 @@
       "pinyin" : "gòu",
       "alias" : "天风姤",
       "gramText" : "女壮，勿用取女。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "姤，遇也，柔遇刚也。勿用取女，不可与长也。天地相遇，品物咸章也。刚遇中正，天下大行也。姤之时义大矣哉！",
+      "xiangText": "天下有风，姤；后以施命诰四方。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六：系于金柅nǐ，贞吉。有攸往，见凶。赢豕争踯躅zhí zhú。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九二：包有鱼，无咎。不利宾。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三：臀无肤，其行次且。厉，无大咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四：包无鱼，起凶。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五：以杞包瓜，含章，有陨自天。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九：辞其角，吝，无咎。"
         }
-
       ]
     },
     {
@@ -1576,32 +1573,32 @@
       "pinyin" : "cuì",
       "alias" : "泽地萃",
       "gramText" : "亨。 王假有庙，利见大人，亨，利贞。 用大牲吉，利有攸往。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "萃，聚也。顺以说，刚中而应，故聚也。王假有庙，致孝享也。利见大人亨，聚以正也。用大牲吉，利有攸往，顺天命也。观其所聚，而天地万物之情可见矣。",
+      "xiangText": "泽上于地，萃；君子以除戎器，戒不虞。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六：有孚不终，乃乱乃萃；若号，一握为笑；勿恤，往无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二：引吉，无咎；孚乃利用禴yuè。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三，萃如嗟如，无攸利；往无咎，小吝。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四，大吉，无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五，萃有位，无咎；匪孚，元永贞，悔亡。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六，赍咨涕洟，无咎。"
         }
 
       ]
