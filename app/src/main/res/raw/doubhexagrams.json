@@ -1823,32 +1823,32 @@
       "pinyin" : "gèn",
       "alias" : "艮为山",
       "gramText" : "艮其背，不获其身，行其庭，不见其人，无咎。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "艮，止也。时止则止，时行则行，动静不失其时，其道光明。艮其止，止其所也。上下敌应，不相与也。是以不获其身，行其庭不见其人，无咎也。",
+      "xiangText": "兼山，艮；君子以思不出其位。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六，艮其趾，无咎；利永贞。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二，艮其腓，不拯其随；其心不快。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三，艮其限，列其夤yín；厉，薰心。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四，艮其身，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五，艮其辅，言有序，悔亡。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九，敦艮，吉。"
         }
 
       ]
@@ -1859,24 +1859,24 @@
       "pinyin" : "jiàn",
       "alias" : "风山渐",
       "gramText" : "女归吉，利贞。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "渐，之进也，女归吉也。进得位，往有功也。进以正，可以正邦也。其位，刚得中也。止而巽，动不穷也。",
+      "xiangText": "山上有木，渐；君子以居贤德善俗。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六，鸿渐于干，小子厉；有言，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二，鸿渐于磐，饮食衎kàn衎，吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三，鸿渐于陆，夫征不复，妇孕不育，凶；利御寇。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四，鸿渐于木，或得其桷jué，无咎。"
         },
         {
           "positive": true,
@@ -1886,7 +1886,6 @@
           "positive": true,
           "lineText": ""
         }
-
       ]
     },
     {
