@@ -2180,32 +2180,32 @@
       "pinyin" : "xiǎo guò",
       "alias" : "雷山小过",
       "gramText" : "亨，利贞，可小事，不可大事。飞鸟遗之音，不宜上宜下，大吉。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "小过，小者过而亨也。过以利贞，与时行也。柔得中，是以小事吉也。刚失位而不中，是以不可大事也。有飞鸟之象焉，“飞鸟遗之音，不宜上，宜下，大吉”，上逆而下顺也。",
+      "xiangText": "山上有雷，小过。君子以行过乎恭，丧过乎哀，用过乎俭。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六，飞鸟以凶。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二，过其祖，遇其妣。不及其君，遇其臣。无咎。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三，弗过防之，従或戕之，凶。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四，无咎。弗过遇之，往厉必戒，勿用永贞。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五，密云不雨，自我西郊。公弋取彼在穴。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六，弗遇过之，飞鸟离之，凶，是谓灾眚shěng。"
         }
 
       ]
@@ -2216,32 +2216,32 @@
       "pinyin" : "jì jì",
       "alias" : "水火既济",
       "gramText" : "亨，小利贞，初吉终乱。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "“既济，亨”，小者亨也。“利贞”。刚柔正而位当也。“初吉”，柔得中也。“终止则乱”，其道穷也。",
+      "xiangText": "水在火上，既济。君子以思患而豫防之。",
       "lineList": [
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "初九，曳其轮，濡其尾，无咎。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六二，妇丧其茀fú，勿逐，七日得。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九三，高宗伐鬼方，三年克之，小人勿用。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六四，繻rú有衣袽rú，终日戒。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九五，东邻杀牛，不如西邻之禴yuè祭，实受其福。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "上六，濡其首，厉。"
         }
 
       ]
@@ -2252,32 +2252,32 @@
       "pinyin" : "wèi jì",
       "alias" : "火水未济",
       "gramText" : "小狐汔济，濡其尾，无攸利。",
-      "tuanText": "",
-      "xiangText": "",
+      "tuanText": "“未济，亨”，柔得中也。“小狐汔济”，未出中也。“濡其尾，无攸利”，不续终也。虽不当位，刚柔应也。",
+      "xiangText": "火在水上，未济。君子以慎辨物居方。",
       "lineList": [
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "初六，濡其尾，吝。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": " 九二，曳其轮，贞吉。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六三，未济，征凶。利涉大川。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "九四，贞吉，悔亡，震用伐鬼方，三年，有赏于大国。"
         },
         {
           "positive": false,
-          "lineText": ""
+          "lineText": "六五，贞吉，无悔。君子之光，有孚吉。"
         },
         {
           "positive": true,
-          "lineText": ""
+          "lineText": "上九，有孚于饮酒，无咎。濡其首，有孚失是。"
         }
 
       ]
